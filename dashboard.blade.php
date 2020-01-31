@@ -133,6 +133,7 @@
 
       <!---------New Work Start------>
       <div class="jumbotron pb-0 pt-5 bg-transparent">
+        <h1>Ideal Ration Management System</h1>
         <div class="row">
           <div class="col-md">
             <!---card 1--->
